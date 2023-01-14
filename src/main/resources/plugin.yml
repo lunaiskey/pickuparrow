@@ -1,0 +1,4 @@
+name: PickupArrows
+version: '${project.version}'
+main: me.lunaiskey.pickuparrows.PickupArrows
+api-version: 1.16
